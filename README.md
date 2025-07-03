@@ -4,7 +4,7 @@ A classic Arkanoid/Breakout game implementation in Java, featuring ball physics,
 
 ## 🎮 Game Demonstration
 
-![Game Demo](https://github.com/user-attachments/assets/4477c36a-a49e-4893-8425-dfdf9c7ff884)
+https://github.com/user-attachments/assets/4477c36a-a49e-4893-8425-dfdf9c7ff884
 
 *Video demonstration of the Arkanoid game in action*
 
