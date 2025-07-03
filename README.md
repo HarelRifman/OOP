@@ -1,6 +1,6 @@
 # Arkanoid Game
 
-A classic Arkanoid/Breakout game implementation in Java, featuring ball physics, collision detection, and block-breaking gameplay.
+A classic Arkanoid/Breakout game implementation in Java, featuring ball physics, collision detection, and block-breaking gameplay for all OS.
 
 ## 🎮 Game Demonstration
 
@@ -130,6 +130,11 @@ This project demonstrates:
 - Collision detection is implemented using geometric algorithms
 - The architecture supports easy extension for new block types and power-ups
 - Code follows consistent style guidelines enforced by checkstyle
+
+## 💻 System Requirements
+- **Java**: 8 or higher
+- **Build Tool**: Apache Ant
+- **Platforms**: Windows, Linux, macOS
 
 ---
 
